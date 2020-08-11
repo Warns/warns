@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on GitHub Action to deploy Microservices on Kubernetes Clusters.
 - 🌱 I’m currently learning industry standard automation and security best practices. 
+- 💬 Still working on developing Git branching knowledge.
+
 
 ![](https://snipboard.io/y0gv3a.jpg)
 
