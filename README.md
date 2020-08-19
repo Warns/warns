@@ -7,7 +7,7 @@
 
 ![](https://snipboard.io/y0gv3a.jpg)
 
-![Warns's github stats](https://github-readme-stats.vercel.app/api?username=warns&count_private=true&show_icons=true&theme=tokyonight&title_color=1e1ac3)
+![Warns's github stats](https://github-readme-stats.vercel.app/api?username=warns&count_private=true&show_icons=true&theme=tokyonight&title_color=cobalt)
 
 
 <!--
