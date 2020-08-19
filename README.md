@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Mert,  👋
 
 - 🔭 I’m currently learning and working on GitHub Action to create workflows to deploy Microservices on Kubernetes Clusters.
 - 🌱 I’m currently learning and researching industry standard automation and security best practices. 
