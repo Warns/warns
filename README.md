@@ -6,7 +6,7 @@
 - 🔨 Working on improving 🐍 knowledge and automation concepts. 
 
 ![](https://snipboard.io/y0gv3a.jpg)
-![Warns's github stats](https://github-readme-stats.vercel.app/api?username=warns&count_private=true&show_icons=true&theme=tokyonight&title_color=2421d4&icon_color=d30cb8&bg_color=711c91,ea00d9,0abdc6,133e7c,091833)
+![Warns's github stats](https://github-readme-stats.vercel.app/api?username=warns&count_private=true&show_icons=true&theme=tokyonight&title_color=2421d4&icon_color=d30cb8&bg_color=133e7c,091833)
 
 <!--
 **Warns/warns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
