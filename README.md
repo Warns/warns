@@ -7,7 +7,7 @@
 
 ![](https://snipboard.io/y0gv3a.jpg)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=warns)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=warns)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 
 
 <!--
