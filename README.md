@@ -7,6 +7,9 @@
 
 ![](https://snipboard.io/y0gv3a.jpg)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=warns)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Warns/warns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
