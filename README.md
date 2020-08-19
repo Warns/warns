@@ -28,13 +28,13 @@
 ![Warns's github stats](https://github-readme-stats.vercel.app/api?username=warns&count_private=true&show_icons=true&theme=tokyonight&title_color=2421d4&icon_color=d30cb8&bg_color=091833&hide=stars)
 -->
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-224646%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-224139%20Lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 291 Contributions in the year 2020
  > 
-> 📦 34.0 kB Used in Github's Storage 
+> 📦 34.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,10 +57,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     23 mins             █████████████████████░░░░   85.26% 
+Docker                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.88% 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   3.72% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
 
 🔥 Code Editors: 
-No Activity Tracked This Week
+VS Code                  27 mins             █████████████████████████   100.0%
 
 ```
 
