@@ -19,11 +19,11 @@
 ![Warns's github stats](https://github-readme-stats.vercel.app/api?username=warns&count_private=true&show_icons=true&theme=tokyonight&title_color=2421d4&icon_color=d30cb8&bg_color=091833&hide=stars)
 -->
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-168-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 286 Contributions in the year 2020
+> 🏆 276 Contributions in the year 2020
  > 
 > 📦 33.8 kB Used in Github's Storage 
  > 
