@@ -1,4 +1,4 @@
-### Hi there! I'm Mert  👋
+<!-- ### Hi there! I'm Mert  👋
 
 - 🔭 I’m currently learning and working on GitHub Action to create workflows to deploy Microservices on Kubernetes Clusters.
 - 🌱 I’m currently learning and researching industry standard automation and security best practices. 
@@ -7,7 +7,7 @@
 
 ![](https://snipboard.io/y0gv3a.jpg)
 ![Warns's github stats](https://github-readme-stats.vercel.app/api?username=warns&count_private=true&show_icons=true&theme=tokyonight&title_color=2421d4&icon_color=d30cb8&bg_color=091833&hide=stars)
-
+-->
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)
 
