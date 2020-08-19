@@ -21,9 +21,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-168-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-184268%20Lines%20of%20code-blue)
+
 **🐱 My Github Data** 
 
-> 🏆 286 Contributions in the year 2020
+> 🏆 276 Contributions in the year 2020
  > 
 > 📦 33.8 kB Used in Github's Storage 
  > 
@@ -36,10 +38,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    139 commits    ██████████░░░░░░░░░░░░░░░   39.71% 
-🌆 Daytime    187 commits    █████████████░░░░░░░░░░░░   53.43% 
-🌃 Evening    11 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14% 
-🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.71%
+🌞 Morning    140 commits    ██████████░░░░░░░░░░░░░░░   39.89% 
+🌆 Daytime    187 commits    █████████████░░░░░░░░░░░░   53.28% 
+🌃 Evening    11 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.13% 
+🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%
 
 ```
 
@@ -47,6 +49,12 @@
 📊 **This Week I Spend My Time On** 
 
 ```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Code Editors: 
+No Activity Tracked This Week
+
 ```
 
 
