@@ -28,11 +28,11 @@
 ![Warns's github stats](https://github-readme-stats.vercel.app/api?username=warns&count_private=true&show_icons=true&theme=tokyonight&title_color=2421d4&icon_color=d30cb8&bg_color=091833&hide=stars)
 -->
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-220380%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-219883%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 365 Contributions in the Year 2020
+> 🏆 366 Contributions in the Year 2020
  > 
 > 📦 34.3 kB Used in Github's Storage 
  > 
@@ -45,9 +45,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    168 commits    ██████████░░░░░░░░░░░░░░░   39.72% 
-🌆 Daytime    224 commits    █████████████░░░░░░░░░░░░   52.96% 
-🌃 Evening    18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.26% 
+🌞 Morning    169 commits    ██████████░░░░░░░░░░░░░░░   39.86% 
+🌆 Daytime    224 commits    █████████████░░░░░░░░░░░░   52.83% 
+🌃 Evening    18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.25% 
 🌙 Night      13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.07%
 
 ```
