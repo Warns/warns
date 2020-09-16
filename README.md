@@ -28,17 +28,17 @@
 ![Warns's github stats](https://github-readme-stats.vercel.app/api?username=warns&count_private=true&show_icons=true&theme=tokyonight&title_color=2421d4&icon_color=d30cb8&bg_color=091833&hide=stars)
 -->
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-218648%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-216503%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 456 Contributions in the Year 2020
+> 🏆 457 Contributions in the Year 2020
  > 
 > 📦 34.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 56 Public Repositories
+> 📜 57 Public Repositories
  > 
 > 🔑 2 Private Repositories 
 
