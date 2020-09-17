@@ -28,7 +28,7 @@
 ![Warns's github stats](https://github-readme-stats.vercel.app/api?username=warns&count_private=true&show_icons=true&theme=tokyonight&title_color=2421d4&icon_color=d30cb8&bg_color=091833&hide=stars)
 -->
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-217023%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-216509%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -45,10 +45,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    184 commits    █████████░░░░░░░░░░░░░░░░   36.36% 
-🌆 Daytime    293 commits    ██████████████░░░░░░░░░░░   57.91% 
-🌃 Evening    16 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.16% 
-🌙 Night      13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.57%
+🌞 Morning    184 commits    █████████░░░░░░░░░░░░░░░░   36.15% 
+🌆 Daytime    296 commits    ██████████████░░░░░░░░░░░   58.15% 
+🌃 Evening    16 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14% 
+🌙 Night      13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.55%
 
 ```
 
