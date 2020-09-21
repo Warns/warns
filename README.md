@@ -30,42 +30,6 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-344968%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 459 Contributions in the Year 2020
- > 
-> 📦 34.8 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 57 Public Repositories
- > 
-> 🔑 2 Private Repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    184 commits    █████████░░░░░░░░░░░░░░░░   36.15% 
-🌆 Daytime    296 commits    ██████████████░░░░░░░░░░░   58.15% 
-🌃 Evening    16 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14% 
-🌙 Night      13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.55%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-```
-
-
-<!--END_SECTION:waka-->
 
 <!--
 **Warns/warns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
