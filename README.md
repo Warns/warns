@@ -15,8 +15,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mert-alnuaimi-8885b1a4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mert-alnuaimi-8885b1a4" height="30" width="30" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=warns" alt="warns" /> </p>
-
 <!-- ### Hi there! I'm Mert  👋
 
 - 🔭 I’m currently learning and working on GitHub Action to create workflows to deploy Microservices on Kubernetes Clusters.
