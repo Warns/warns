@@ -27,9 +27,6 @@
 ![](https://snipboard.io/y0gv3a.jpg)
 ![Warns's github stats](https://github-readme-stats.vercel.app/api?username=warns&count_private=true&show_icons=true&theme=tokyonight&title_color=2421d4&icon_color=d30cb8&bg_color=091833&hide=stars)
 -->
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-344968%20lines%20of%20code-blue)
-
 
 <!--
 **Warns/warns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
