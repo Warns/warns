@@ -10,7 +10,7 @@
 
 <p align="left">
 <a href="https://dev.to/warns" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="warns" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mert-alnuaimi-8885b1a4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mert-alnuaimi-8885b1a4" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/mert-alnuaimi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mert-alnuaimi-8885b1a4" height="30" width="30" /></a>
 </p>
 
 <!-- ### Hi there! I'm Mert  👋
