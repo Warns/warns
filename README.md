@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Mert</h1>
 
-
+- 📚 I'm curently training and preparing for CKAD certification.
 - 🔭 I’m currently working on GitHub Actions to create workflows to deploy Microservices on Kubernetes Clusters using Terraform.
 - 🌱 I’m currently learning and researching industry standard automation and security best practices. 
 - 💬 Learning and improving Git branching methodologies.
