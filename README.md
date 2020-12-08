@@ -3,8 +3,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=warns)](https://github.com/anuraghazra/github-readme-stats)
 
 - :joystick: Fascinated by [VR/AR](https://aframe.io/)
-- 📚 Curently training and preparing for CKAD certification.
-- 🔭 Currently working on GitHub Actions to create workflows to deploy Microservices on Kubernetes Clusters using Terraform.
+- 📚 Curently training and preparing for [CKAD](https://www.cncf.io/certification/ckad/) certification.
 - 💬 Improving Git branching methodologies.
 - 🔨 Working on improving 🐍 knowledge and automation concepts. 
 
