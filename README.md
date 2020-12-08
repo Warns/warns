@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Mert</h1>
 
-![Mert Alnuaimi's github stats](https://github-readme-stats.vercel.app/api?username=warns&count_private=true&theme=tokyonight)
+![Mert Alnuaimi's github stats](https://github-readme-stats.vercel.app/api?username=warns&count_private=true&theme=synthwave)
 
 - :joystick: Fascinated by [VR/AR](https://aframe.io/)
 - 📚 Curently training and preparing for [CKAD](https://www.cncf.io/certification/ckad/) certification.
