@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Mert</h1>
 
-[![Mert Alnuaimi's github stats](https://github-readme-stats.vercel.app/api?username=warns)](https://github.com/warns/github-readme-stats&count_private=true&theme=dracula)
+[![Mert Alnuaimi's github stats](https://github-readme-stats.vercel.app/api?username=warns)](https://github.com/warns/github-readme-stats&count_private=true&theme=tokyonight)
 
 
 - :joystick: Fascinated by [VR/AR](https://aframe.io/)
