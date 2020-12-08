@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Mert</h1>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=warns)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=warns)](https://github.com/anuraghazra/github-readme-stats&count_private=true&theme=tokyonight)
 
 - :joystick: Fascinated by [VR/AR](https://aframe.io/)
 - 📚 Curently training and preparing for [CKAD](https://www.cncf.io/certification/ckad/) certification.
