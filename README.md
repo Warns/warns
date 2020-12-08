@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mert</h1>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=warns)](https://github.com/anuraghazra/github-readme-stats)
+
 - 📚 I'm curently training and preparing for CKAD certification.
 - 🔭 I’m currently working on GitHub Actions to create workflows to deploy Microservices on Kubernetes Clusters using Terraform.
 - 🌱 I’m currently learning and researching industry standard automation and security best practices. 
