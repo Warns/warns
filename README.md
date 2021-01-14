@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mert</h1>
 
 - :joystick: Fascinated by [VR/AR](https://aframe.io/)
-- 📚 Curently training and preparing for [CKAD](https://www.cncf.io/certification/ckad/) and [AZ-104](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104) certifications.
+- 📚 Currently training and preparing for [CKAD](https://www.cncf.io/certification/ckad/) and [AZ-104](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104) certifications.
 - 💬 Improving Git branching methodologies.
 - 🔨 Working on improving 🐍 skills and automation concepts. 
 
