@@ -3,7 +3,7 @@
 - :joystick: Fascinated by [VR/AR](https://aframe.io/)
 - 📚 Currently training and preparing for [CKAD](https://www.cncf.io/certification/ckad/) certification.
 - 🤖 Working on AWS Lambda and serverless framework to transition query based services.
-- 💬 Improving advanced Git branching methodologies.
+- 🌳 Improving advanced Git branching methodologies.
 - 🔨 Working on improving 🐍 skills and automation concepts. 
 
 ![](https://snipboard.io/y0gv3a.jpg)
