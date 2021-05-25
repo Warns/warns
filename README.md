@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mert</h1>
 
 - :joystick: Fascinated by [VR/AR](https://aframe.io/)
-- 📚 Currently training and preparing for [CKAD](https://www.cncf.io/certification/ckad/) certification.
+- 📚 Currently training and preparing for [CKAD](https://www.cncf.io/certification/ckad/) certification. [Passed](https://www.credly.com/earner/earned/badge/3e2dc0ff-0ada-4d0b-b3fa-10fec47c5ce0) ✅
 - 🤖 Working on AWS Lambda and serverless framework to transition query based services.
 - 🌳 Improving advanced Git branching methodologies.
 - 🔨 Working on improving 🐍 skills and automation concepts. 
