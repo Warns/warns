@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Mert</h1>
 
+- Currently relocation to the Netherlands 🇳🇱
 - :joystick: Fascinated by [VR/AR](https://aframe.io/)
 - 📚 ~~Currently training and preparing for [CKAD](https://www.cncf.io/certification/ckad/) certification~~. [Passed](https://www.credly.com/badges/3e2dc0ff-0ada-4d0b-b3fa-10fec47c5ce0?source=linked_in_profile) ✅
 - 🤖 Working on AWS Lambda and serverless framework to transition query based services.
