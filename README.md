@@ -6,7 +6,6 @@
 - 🤖 Working on building new infrastructure on AWS using Terraform.
 - 🌳 Improving advanced Git branching methodologies.
 - 🔨 Working on improving 🐍 skills and automation concepts. 
-- 🎮 Currently playing Death Stranding and Star Citizen. See my Steam [profile](https://steamcommunity.com/id/SkullGent/).
 
 ![](https://snipboard.io/y0gv3a.jpg)
 
