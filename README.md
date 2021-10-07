@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Mert</h1>
 
-- :airplane: Currently ~~relocating~~ relocated to the Netherlands 🇳🇱
+- :airplane: ~~Currently relocating~~ relocated to the Netherlands 🇳🇱
 - :joystick: Fascinated by [VR/AR](https://aframe.io/)
 - 📚 ~~Currently training and preparing for [CKAD](https://www.cncf.io/certification/ckad/) certification~~. [Passed](https://www.credly.com/badges/3e2dc0ff-0ada-4d0b-b3fa-10fec47c5ce0?source=linked_in_profile) ✅
 - 🤖 Working on building new infrastructure on AWS using Terraform.
